@@ -1,6 +1,3 @@
 # contenu
 
----
-title: "contenu"
----
 
